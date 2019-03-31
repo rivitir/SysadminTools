@@ -8,3 +8,6 @@ Collection of Scripts &amp; Tools that can be handy for any Sysadmin
 
 #### AD
   * invoke-inactiveaccounts.ps1 - This script disables all accounts that are inactive in AD for X amount of days.
+
+#### Modules
+  * test-aduser.psm1 - This module will check AD to see if a user exists and provide a boolean value
